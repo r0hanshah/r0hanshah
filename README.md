@@ -33,11 +33,3 @@ I am an aspiring Machine Learning Engineer and Data Scientist who is passionate 
 ### [It Takes A Community](https://github.com/alvin-wong/it_takes_a_community)
 **Description:** A full-stack platform designed to foster in-person community engagement and address local social challenges through data analysis, web scraping, and geolocation services.  
 **Technologies:** Next.js, Material-UI, Node.js, PostgreSQL, Web Scraping, Geolocation APIs, Cloud Hosting
-
-## How to Reach Me
-- **Email:** [rohanshah1@ufl.edu](mailto:rohanshah1@ufl.edu)
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/rohanshah004/)
-
-## Let’s Connect and Grow Together
-I love engaging with open-source communities, discussing innovative approaches, and contributing to meaningful projects. Feel free to star some repos, open issues, or collaborate on new ideas!
-
