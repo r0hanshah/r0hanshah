@@ -17,7 +17,7 @@ I am an aspiring Machine Learning Engineer and Data Scientist who is passionate 
 - **Full-Stack Development:** I leverage frameworks like Next.js, Node.js, and cloud-based databases to create end-to-end solutions that empower communities and drive positive social impact.
 
 ## Featured Repositories
-### [Genre Classification for GTZAN Dataset](https://github.com/r0hanshah/genre-classification-gtzan)
+### [Genre Classification for GTZAN Dataset](https://github.com/r0hanshah/Genre-Classification-for-GTZAN-Dataset)
 **Description:** This Fall AI Studio project employs a Convolutional Recurrent Neural Network (CRNN) to classify music genres from spectrograms. It highlights my expertise in deep learning architectures, data processing, and evaluation metrics.  
 **Technologies:** Python, Jupyter Notebooks, TensorFlow/PyTorch, Audio Data Processing  
 **Key Features:**  
