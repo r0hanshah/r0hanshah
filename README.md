@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path-to-your-professional-headshot.jpg" alt="Profile Picture" width="200" />
+  <img src="DSC06647.jpg" alt="Profile Picture" width="200" />
 </p>
 
 <h1 align="center">Hi there, I'm Rohan Shah! 👋</h1>
