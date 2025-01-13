@@ -18,7 +18,7 @@ I am an aspiring Machine Learning Engineer and Data Scientist who is passionate 
 
 ## Featured Repositories
 ### [Genre Classification for GTZAN Dataset](https://github.com/r0hanshah/Genre-Classification-for-GTZAN-Dataset)
-**Description:** This Fall AI Studio project employs a Convolutional Recurrent Neural Network (CRNN) to classify music genres from spectrograms. It highlights my expertise in deep learning architectures, data processing, and evaluation metrics.  
+**Description:** This project employs a Convolutional Recurrent Neural Network (CRNN) to classify music genres from spectrograms. It highlights my expertise in deep learning architectures, data processing, and evaluation metrics.  
 **Technologies:** Python, Jupyter Notebooks, TensorFlow/PyTorch, Audio Data Processing  
 **Key Features:**  
 - Comprehensive README including project overview, methodology, results, and next steps  
