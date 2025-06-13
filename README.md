@@ -26,7 +26,7 @@ I am an aspiring Machine Learning Engineer and Data Scientist who is passionate 
 - Installation and setup instructions  
 - Full documentation to replicate results
 
-### [SP-BTT Patent Classification](https://github.com/jaanvi-prabhakar/SP-BTT-Patent-Classification)
+### [SP-BTT Patent Classification](https://github.com/r0hanshah/SP-BTT-Patent-Classification)
 **Description:** A collaboration to classify patent abstracts into industry-specific categories using large language models and few-shot learning. Demonstrates my experience with NLP, data preprocessing, and domain-specific model fine-tuning.  
 **Technologies:** Python, LLM APIs, Pandas, Data Preprocessing Pipelines
 
